@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c97a579c15e93eb6de9615f151f6fdd1",
+    "revision": "4dddc9c6e7fe22fcb412528b72ae6c2a",
     "url": "/aqoom_dashboard/index.html"
   },
   {
-    "revision": "abac590419f746b7f2aa",
+    "revision": "46b8f95ce74c8bc21e84",
     "url": "/aqoom_dashboard/static/css/main.47cf30bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aqoom_dashboard/static/js/2.ff3b20de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abac590419f746b7f2aa",
-    "url": "/aqoom_dashboard/static/js/main.3b7f69f0.chunk.js"
+    "revision": "46b8f95ce74c8bc21e84",
+    "url": "/aqoom_dashboard/static/js/main.d5bd0f4a.chunk.js"
   },
   {
     "revision": "1f20a29b264c9103ea9d",
