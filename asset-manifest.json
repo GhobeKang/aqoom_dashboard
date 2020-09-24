@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/aqoom_dashboard/static/css/main.47cf30bd.chunk.css",
+    "main.js": "/aqoom_dashboard/static/js/main.3b7f69f0.chunk.js",
+    "main.js.map": "/aqoom_dashboard/static/js/main.3b7f69f0.chunk.js.map",
+    "runtime-main.js": "/aqoom_dashboard/static/js/runtime-main.94b1bd5f.js",
+    "runtime-main.js.map": "/aqoom_dashboard/static/js/runtime-main.94b1bd5f.js.map",
+    "static/js/2.ff3b20de.chunk.js": "/aqoom_dashboard/static/js/2.ff3b20de.chunk.js",
+    "static/js/2.ff3b20de.chunk.js.map": "/aqoom_dashboard/static/js/2.ff3b20de.chunk.js.map",
+    "index.html": "/aqoom_dashboard/index.html",
+    "precache-manifest.fcd8a87ff821c8727a9778e3df9a4673.js": "/aqoom_dashboard/precache-manifest.fcd8a87ff821c8727a9778e3df9a4673.js",
+    "service-worker.js": "/aqoom_dashboard/service-worker.js",
+    "static/css/main.47cf30bd.chunk.css.map": "/aqoom_dashboard/static/css/main.47cf30bd.chunk.css.map",
+    "static/js/2.ff3b20de.chunk.js.LICENSE.txt": "/aqoom_dashboard/static/js/2.ff3b20de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94b1bd5f.js",
+    "static/js/2.ff3b20de.chunk.js",
+    "static/css/main.47cf30bd.chunk.css",
+    "static/js/main.3b7f69f0.chunk.js"
+  ]
+}
