@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/aqoom_dashboard/static/css/main.47cf30bd.chunk.css",
-    "main.js": "/aqoom_dashboard/static/js/main.8698da42.chunk.js",
-    "main.js.map": "/aqoom_dashboard/static/js/main.8698da42.chunk.js.map",
+    "main.js": "/aqoom_dashboard/static/js/main.c6bf986c.chunk.js",
+    "main.js.map": "/aqoom_dashboard/static/js/main.c6bf986c.chunk.js.map",
     "runtime-main.js": "/aqoom_dashboard/static/js/runtime-main.94b1bd5f.js",
     "runtime-main.js.map": "/aqoom_dashboard/static/js/runtime-main.94b1bd5f.js.map",
     "static/js/2.cf6d99cb.chunk.js": "/aqoom_dashboard/static/js/2.cf6d99cb.chunk.js",
     "static/js/2.cf6d99cb.chunk.js.map": "/aqoom_dashboard/static/js/2.cf6d99cb.chunk.js.map",
     "index.html": "/aqoom_dashboard/index.html",
-    "precache-manifest.b5b36c07ebac97724cf0dee480acdbf2.js": "/aqoom_dashboard/precache-manifest.b5b36c07ebac97724cf0dee480acdbf2.js",
+    "precache-manifest.e8485758a63ab7208e09b77f1d2c3c59.js": "/aqoom_dashboard/precache-manifest.e8485758a63ab7208e09b77f1d2c3c59.js",
     "service-worker.js": "/aqoom_dashboard/service-worker.js",
     "static/css/main.47cf30bd.chunk.css.map": "/aqoom_dashboard/static/css/main.47cf30bd.chunk.css.map",
     "static/js/2.cf6d99cb.chunk.js.LICENSE.txt": "/aqoom_dashboard/static/js/2.cf6d99cb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.94b1bd5f.js",
     "static/js/2.cf6d99cb.chunk.js",
     "static/css/main.47cf30bd.chunk.css",
-    "static/js/main.8698da42.chunk.js"
+    "static/js/main.c6bf986c.chunk.js"
   ]
 }
