@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/aqoom_dashboard/precache-manifest.e8485758a63ab7208e09b77f1d2c3c59.js"
+  "/aqoom_dashboard/precache-manifest.5ca04286cc4e7315328717a2b89373af.js"
 );
 
 self.addEventListener('message', (event) => {
